@@ -1,0 +1,3 @@
+com\example\taskmanagement\models\baseClass.class
+com\example\taskmanagement\TaskManagementApplication.class
+com\example\taskmanagement\models\task.class
